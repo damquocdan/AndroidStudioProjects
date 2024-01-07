@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">21111064572_DamQuocDan_Lab01</string>
+    <string name="content">"           Android - Thành phần ứng dụng                          1. Hoạt động             2. Dịch vụ             3. Nhà cung cấp nội dung             4. Nhận phát sóng"</string>
+</resources>

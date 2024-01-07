@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">21111064572_DamQuocDan_Lab01</string>
+    <string name="content">
+        Android - Application Component: \n
+            1. Activity \n
+            2. Service \n
+            3. ContentProvider \n
+            4. BroadcastReceive
+    </string>
+</resources>
