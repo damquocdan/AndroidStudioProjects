@@ -3,11 +3,11 @@ plugins {
 }
 
 android {
-    namespace 'com.example.lesson03'
+    namespace 'com.example.a21111064572_damquocdan_lab03'
     compileSdk 34
 
     defaultConfig {
-        applicationId "com.example.lesson03"
+        applicationId "com.example.a21111064572_damquocdan_lab03"
         minSdk 26
         targetSdk 34
         versionCode 1
